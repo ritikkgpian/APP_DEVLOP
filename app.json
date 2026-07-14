@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "first-dev",
-    "slug": "first-dev",
+    "name": "APP_DEVLOP",
+    "slug": "APP_DEVLOP",
     "version": "1.0.0",
+    
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "firstdev",
@@ -36,7 +37,8 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "reactCompiler": true
+      "reactCompiler": true,
+      "baseUrl": "/APP_DEVLOP"
     }
   }
 }
