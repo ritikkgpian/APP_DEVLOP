@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1",
+    "title": "Mid Semester Examination Schedule",
+    "category": "Academics",
+    "shortContent": "Timetable for Autumn Mid-Sem exams.",
+    "fullContent": "The Autumn Mid Semester Examinations are officially scheduled to commence on September 15. The comprehensive department-wise timetable has been published on the institute ERP portal. Students must log in to verify their specific seating arrangements, session slots, and block designations. Entry into the examination hall requires a valid physical Institute ID card and a printed admit card. Electronic gadgets, smartwatches, and programmable calculators are strictly prohibited. Any scheduling conflicts or medical emergencies must be formally reported to the Academic Section at least 48 hours prior to the examination."
+  },
+  {
+    "id": "2",
+    "title": "End Semester Project Submission",
+    "category": "Academics",
+    "shortContent": "Submit your final year project reports by November 30.",
+    "fullContent": "All final-year undergraduate and postgraduate students are required to upload their completed project thesis/dissertation onto the central academic portal before 5:00 PM on November 30. The submission must include a digital signature and approval certificate from the respective faculty guides. All documents must undergo a mandatory plagiarism screening via Turnitin; reports showing a similarity index exceeding 15% will be automatically flagged and rejected. Hard copies bound in the prescribed departmental format must be submitted to the Office of the Head of Department by December 2. No extensions to this timeline will be granted under any circumstances."
+  },
+  {
+    "id": "3",
+    "title": "Subject Registration Deadline Extension",
+    "category": "Academics",
+    "shortContent": "Spring semester registration extended.",
+    "fullContent": "The deadline for electing open electives, departmental specializations, and general subject registration for the upcoming Spring semester has been extended until this Friday at midnight (11:59 PM). Students must ensure that all outstanding institutional dues, library fines, and hostel fees are fully cleared before attempting to submit their registration profiles. Failure to complete registration within this extended window will result in an automatic late fine of ₹2,000, and could lead to the cancellation of elective choices due to strict credit seat caps enforced on the ERP system."
+  },
+  {
+    "id": "4",
+    "title": "Academic Probation Evaluation",
+    "category": "Academics",
+    "shortContent": "Review for students below critical CGPA.",
+    "fullContent": "Students currently on academic probation due to a CGPA falling below the critical threshold of 5.0 are mandated to schedule an evaluation meeting with their assigned faculty advisors this Tuesday. The purpose of this review is to formulate a structured remedial course roadmap and formalize credit registration limits (maximum of 20 credits) for the upcoming semester. Students must bring their consolidated grade sheets. Failure to attend this advising session will result in a temporary block on the student's ERP portal registration and an escalation to the Academic Performance Review Committee (APRC)."
+  },
+  {
+    "id": "5",
+    "title": "Convocation Degree Verification",
+    "category": "Academics",
+    "shortContent": "Verify your certificate name details.",
+    "fullContent": "Graduating students who have successfully cleared all credit requirements must access the ERP convocation module to verify the spelling of their names in both English and Hindi scripts. The printed data will match your official Class X board certificate or passport. Any corrections regarding font mapping, character rendering, or transliteration anomalies must be updated and submitted to the Academic Section along with supporting documentation before next week. The data will be locked permanently thereafter for security security-printing and digital locker uploading."
+  },
+  {
+    "id": "6",
+    "title": "Branch Change Rules Announcement",
+    "category": "Academics",
+    "shortContent": "Criteria for first-year branch upgrades.",
+    "fullContent": "First-year undergraduate students seeking a change of branch or department at the end of their second semester must meet strict eligibility parameters. Applicants must have completed all registered first-year credits in their first attempt, without any backlogs or extensions, and maintain a CGPA greater than or equal to 8.5. Branch allocations will be executed strictly on a merit-cum-preference basis, subject to the constraint that the total intake strength of any department does not decrease by more than 10% or increase beyond its sanctioned capacity. The online application portal will open on July 10."
+  },
+  {
+    "id": "7",
+    "title": "Summer Course Registration Open",
+    "category": "Academics",
+    "shortContent": "Register for remedial summer classes.",
+    "fullContent": "The registration portal for the remedial Summer Term is now active for students who have received 'F' or 'X' grades in core engineering mathematics, physics, and basic computational subjects. Students are permitted to register for a maximum of two courses. Attendance during this intensive fast-track summer term is monitored stringently, requiring a minimum of 100% attendance, barring certified medical grounds. The fee structure is calculated at ₹1,500 per credit. Classes will be held in a hybrid format, followed by conventional offline examinations at the end of the term."
+  },
+  {
+    "id": "8",
+    "title": "Attendance Policy Enforcement Notice",
+    "category": "Academics",
+    "shortContent": "75% attendance rule strict compliance.",
+    "fullContent": "The Office of the Dean of Academic Affairs reiterates that strict compliance with the 75% attendance policy is mandatory across all lectures, tutorials, and laboratory sessions. Students whose cumulative attendance falls below this threshold in any specific course will be automatically debarred from sitting for the End Semester Examinations in that subject and will be awarded a 'W' (Withdrawn) grade. Medical condonations up to a maximum of 10% will only be processed if valid, registered medical practitioner certificates are submitted to the Academic Section within seven working days of returning to campus."
+  },
+  {
+    "id": "9",
+    "title": "National Scholarship Portal Updates",
+    "category": "Academics",
+    "shortContent": "Submit applications for fee waivers.",
+    "fullContent": "Eligible SC, ST, OBC, and Merit-cum-Means students applying for institutional tuition fee waivers, stipends, or state scholarships must upload their updated documentation on the National Scholarship Portal (NSP). For fee reimbursement processing, physical copies of verified income certificates issued by an officer not below the rank of Tehsildar, along with relevant caste certificates and previous year transcripts, must be submitted to the Academic Block counter by Friday. Income declarations must align with the current fiscal year tax assessment rules."
+  },
+  {
+    "id": "10",
+    "title": "Supplementary Exam Fee Payment",
+    "category": "Academics",
+    "shortContent": "Pay fees for clearing backlogs.",
+    "fullContent": "The payment gateway for the supplementary and backlog examinations is officially open. Affected students must deposit a fee of ₹500 per individual theory paper or practical laboratory module through the SBI Collect interface. Following a successful transaction, the receipt containing the unique transaction reference number must be uploaded to the ERP portal to generate the supplementary admit card. Failure to complete this financial clearance before the deadline will forfeit the candidate's chance to sit for the backlog clearance cycle."
+  },
+  {
+    "id": "11",
+    "title": "Google PPT and Internship Drive",
+    "category": "Placements and Internships",
+    "shortContent": "Pre-Placement Talk scheduled for 2nd/3rd year.",
+    "fullContent": "Google India will host its flagship Pre-Placement Talk (PPT) in the Main Auditorium tomorrow at 4:00 PM. This session is strictly open to second and third-year students from circuit branches, including Computer Science, Electronics, and Electrical Engineering. The talent acquisition team will detail the upcoming Summer Internship hiring workflow, technical assessment metrics, and structural software engineering roles. Attendees must wear formal attire and carry their CDC smart card for automated attendance tracking, which maps directly to the resume shortlisting database."
+  },
+  {
+    "id": "12",
+    "title": "DE Shaw Coding Test Shortlist",
+    "category": "Placements and Internships",
+    "shortContent": "Shortlisted candidates for round 2 interview.",
+    "fullContent": "The evaluation results for the DE Shaw online algorithmic coding round have been released by the Career Development Centre (CDC). Out of the initial pool, 15 candidates have advanced to the technical interview stage. The virtual interviews will commence tomorrow morning at 8:00 AM sharp via Microsoft Teams. Shortlisted students must ensure a dual-camera setup, an uninterrupted high-speed internet connection, and a clean workspace. The evaluation matrix will focus heavily on advanced data structures, systems architecture, and quantitative logic."
+  },
+  {
+    "id": "13",
+    "title": "Investment Banking Summer Internships",
+    "category": "Placements and Internships",
+    "shortContent": "Goldman Sachs profiles open for application.",
+    "fullContent": "Goldman Sachs has opened its application pipeline on the CDC portal for Quant Analyst and Investment Banking summer intern positions. Applicants must have a minimum CGPA of 8.0 and show deep proficiency in stochastic calculus, linear algebra, corporate finance fundamentals, and object-oriented programming (C++ or Python). The assessment workflow comprises an automated cognitive and behavioral assessment followed by a rigorous multi-stage technical technical panel interview focusing on market modeling and analytical problem-solving."
+  },
+  {
+    "id": "14",
+    "title": "Resume Verification Phase 1 Close",
+    "category": "Placements and Internships",
+    "shortContent": "CDC resume verification closing.",
+    "fullContent": "The Career Development Centre (CDC) reminds all registered final-year students that Phase 1 of the master resume verification window will close tonight. All profile claims, including academic minor certifications, internships, corporate projects, and positions of responsibility (PORs), must be backed by official documentary proof signed by relevant authorities. Unverified components will be excised from the resume pool. Once the deadline passes, profiles will be systematically locked and cannot be altered for Day 1 and Day 2 company applications."
+  },
+  {
+    "id": "15",
+    "title": "Mock Interview Sessions by Alumni",
+    "category": "Placements and Internships",
+    "shortContent": "Register for technical mock interviews.",
+    "fullContent": "The institutional Alumni Network, in coordination with the placement cells, is organizing a series of comprehensive mock technical and HR interview clinics this weekend. Mentors from top tech firms, consulting groups, and core manufacturing sectors will conduct realistic feedback loops. Slot booking will commence tonight at 9:00 PM on a first-come, first-served basis via the alumni portal. Registered candidates must upload their verified master resumes ahead of their designated slots; a penalty will be levied on no-shows."
+  },
+  {
+    "id": "16",
+    "title": "HFT Quantitative Trainee Openings",
+    "category": "Placements and Internships",
+    "shortContent": "High Frequency Trading roles available.",
+    "fullContent": "An elite global High-Frequency Trading (HFT) firm has declared open recruitment for Quantitative Research and Trainee Trader roles, targeting domestic and international offices. This track is optimized for top competitive programmers with verifiable performance records in ACM-ICPC, Google Code Jam, or top-tier ranks on Codeforces (Master+ tier). The recruitment matrix includes low-latency systems analysis, rapid-fire mental math, and advanced probability theory assessments. Compensation packages start at an industry-leading 60+ LPA base salary, excluding performance-linked bonuses."
+  },
+  {
+    "id": "17",
+    "title": "Data Science Internship at Microsoft",
+    "category": "Placements and Internships",
+    "shortContent": "Off-campus opportunities for 2nd years.",
+    "fullContent": "Microsoft India has initiated an application process for exploratory Data Science and AI research intern roles for pre-final year students. The technical requirements mandate foundational expertise in exploratory data analysis (EDA), advanced statistical inference, structured query language (SQL), and deep learning libraries such as PyTorch or TensorFlow. Eligible applicants must apply through the external Microsoft university portal and register their tracking ID with the CDC to obtain institutional validation for academic credit mapping."
+  },
+  {
+    "id": "18",
+    "title": "Compulsory Internship NoC Request",
+    "category": "Placements and Internships",
+    "shortContent": "Process to generate No Objection Certificates.",
+    "fullContent": "Students who have secured self-arranged winter or spring internships must formally request a No Objection Certificate (NoC) from the Training and Placement Cell to ensure legal compliance and academic tracking. The application must include the formal corporate offer letter specifying the exact duration, stipend breakdown, explicit job description, and geographic location. The processing turnaround time is three working days, pending department review to confirm that the training alignment satisfies curricular prerequisites."
+  },
+  {
+    "id": "19",
+    "title": "Consulting Case Study Workshop",
+    "category": "Placements and Internships",
+    "shortContent": "Workshop by McKinsey consultants.",
+    "fullContent": "The Management and Consulting Club is hosting a comprehensive masterclass led by senior McKinsey & Company consultants this Saturday in the Management Auditorium. The workshop will dismantle complex business frameworks, MECE (Mutually Exclusive, Collectively Exhaustive) structuring, guesstimate mechanics, and macroeconomic profitability root-cause analyses. Registered participants will receive access to an exclusive consulting casebook. Priority entry is granted to candidates preparing for consulting tracks in the upcoming placement cycle."
+  },
+  {
+    "id": "20",
+    "title": "Core Engineering Placement Drive",
+    "category": "Placements and Internships",
+    "shortContent": "Tata Motors hiring mechanical/electrical grads.",
+    "fullContent": "Tata Motors is scheduled to arrive on campus next month for its annual Graduate Engineer Trainee (GET) hiring drive. This drive is open to final-year Mechanical, Electrical, and Mechatronics engineering graduates. The evaluation blueprint will encompass an online adaptive technical test followed by behavioral profiling assessments. Candidates are strongly advised to thoroughly review core technical paradigms including advanced thermodynamics, machine design dynamics, electric vehicle powertrain topologies, and control systems engineering."
+  },
+  {
+    "id": "21",
+    "title": "Revised Mess Menu Announcement",
+    "category": "Hostel and Mess",
+    "shortContent": "Updated menu items for summer cycle.",
+    "fullContent": "Following the resolutions of the General Body Meeting (GBM) and subsequent evaluation by the Hall Management Committee (HMC), a revised summer-cycle mess menu has been formalized. To balance nutritional benchmarks with student preferences, premium additions such as paneer tikka and customized gravies have been integrated on Wednesday nights, complemented by premium ice cream selections during Sunday dinners. The mess vendors have been instructed to strictly maintain hygienic standards and stick to the revised procurement ledger without modifying the baseline mess subsidy allocation."
+  },
+  {
+    "id": "22",
+    "title": "Hostel Room Allotment for Freshers",
+    "category": "Hostel and Mess",
+    "shortContent": "Room allocations for the incoming batch.",
+    "fullContent": "The Dean of Student Affairs office has finalized the automated hostel room allocation matrix for the incoming undergraduate freshman batch. Students are designated double-sharing rooms across Hall 3, Hall 4, and Hall 5 to build peer integration. Upon arrival, students must report directly to their respective Hall Wardens with their original physical admission letter, passport-size photographs, and a certified medical fitness affidavit. Inventory check sheets for room furniture must be completed and returned to the hostel caretaker within 48 hours of check-in."
+  },
+  {
+    "id": "23",
+    "title": "Geyser Maintenance and Water Supply Cut",
+    "category": "Hostel and Mess",
+    "shortContent": "Temporary water disruption on Thursday.",
+    "fullContent": "The Estate and Works Maintenance Wing will conduct structural preventive maintenance, including overhead water reservoir hyper-chlorination and industrial geyser heating element replacement, this Thursday. Consequently, centralized hot and cold water distribution will be suspended in Blocks A and B between 10:00 AM and 4:00 PM. Residents are advised to store sufficient water for basic requirements. Contingency washroom provisions will remain functional in the ground-floor common wing during the maintenance window."
+  },
+  {
+    "id": "24",
+    "title": "Mess Rebate Policy Updates",
+    "category": "Hostel and Mess",
+    "shortContent": "Rules to apply for partial mess refunds.",
+    "fullContent": "The Hall Management Committee has amended the operational rules for securing partial mess rebates. Students who intend to be absent from the campus for verified official research events, industrial tours, or authorized institution holidays for a minimum of 5 consecutive days can log a formal rebate request. Applications must be routed via the online portal at least 48 hours before departure and accompanied by an approval signature from the relevant Head of Department or Dean. Approved rebates will be adjusted directly in the subsequent semester's composite fee structure balance."
+  },
+  {
+    "id": "25",
+    "title": "Inter-Hall Sports Equipment Allotment",
+    "category": "Hostel and Mess",
+    "shortContent": "Collect sports kits from the common room.",
+    "fullContent": "The Technology Gymkhana has completed its annual procurement phase, distributing professional-grade tournament equipment to individual hall common rooms. Newly acquired inventory includes carbon-fiber table tennis rackets, club-grade cricket kits, and FIFA-certified footballs. Residents can check out this equipment by depositing their physical hostel inventory cards with the resident sports secretary. Any equipment damage or loss must be logged immediately, and liability will be evaluated based on standard depreciation fine matrices."
+  },
+  {
+    "id": "26",
+    "title": "Late Night Entry Registration Rules",
+    "category": "Hostel and Mess",
+    "shortContent": "Biometric logging mandatory after 11 PM.",
+    "fullContent": "In alignment with upgraded campus security protocols ratified by the Security Advisory Board, curfew logging rules will be stringently enforced. Any resident entering the hostel boundary parameters after 11:00 PM is mandatory required to authenticate their identity using the high-definition biometric scanners deployed at the main gate. Repeated failure to comply (exceeding three entry defaults in a calendar month) will trigger an automated alert system, requiring a formal explanatory meeting with the Assistant Warden and potential parent notification."
+  },
+  {
+    "id": "27",
+    "title": "Washing Machine Token Automation",
+    "category": "Hostel and Mess",
+    "shortContent": "Digital tokens introduced for laundry.",
+    "fullContent": "The legacy manual, cash-based token distribution method for the centralized laundry infrastructure is being entirely phased out. The institute has deployed an IoT-enabled digital automation solution across all washing machines and dryers. Starting this Monday, residents must scan the QR codes deployed at individual machine terminals to book slots and execute payments via unified digital wallets. A real-time availability tracker has been integrated into the student hostel app to eliminate physical queuing."
+  },
+  {
+    "id": "28",
+    "title": "Pest Control Operation in All Blocks",
+    "category": "Hostel and Mess",
+    "shortContent": "Mandatory room availability for spray.",
+    "fullContent": "An intensive, estate-wide pest control and vector-borne disease fumigation drive is scheduled to occur block-by-block over the coming week. The sanitization process involves applying WHO-approved, non-toxic, eco-friendly chemical sprays targeted against bed bugs, termites, and mosquitoes. Residents must ensure their room doors are unlocked and accessible during the scheduled timeline for their specific wings. Food items and electronic components must be kept covered. A detailed timing map for each residential block is available on the hostel notice board."
+  },
+  {
+    "id": "29",
+    "title": "Hostel Day Celebration Planning",
+    "category": "Hostel and Mess",
+    "shortContent": "Budget meeting for hall alumni dinner.",
+    "fullContent": "The Hall Management Committee is organizing an extraordinary planning session for the upcoming Annual Hall Day and Alumni Dinner celebration. All wing representatives and general body volunteers are requested to participate to finalize cultural programming parameters, stage lighting configurations, and multi-cuisine catering options. Structured budget proposals under the sub-heads of internal decorations, sound systems, and mementos must be drafted and submitted to the student treasurer for audit review prior to the formal presentation."
+  },
+  {
+    "id": "30",
+    "title": "LAN Port Repair Desk Schedule",
+    "category": "Hostel and Mess",
+    "shortContent": "Submit complaints for high-speed internet.",
+    "fullContent": "The Computer Informatics Centre (CIC) is deploying a specialized technical support desk to address localized high-speed internet connectivity failures and physical RJ-45 LAN port degradation. Technicians will visit the common room daily between 5:00 PM and 7:00 PM to execute hardware testing, MAC address binding resets, and internal wiring repairs. Residents experiencing packet drop issues or zero link connectivity must log their specific token number on the central ticketing system before the technician's visit."
+  },
+  {
+    "id": "31",
+    "title": "Spring Fest Orientation and Auditions",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Join the core organizing team.",
+    "fullContent": "The executive committee for Spring Fest, the annual socio-cultural festival, has announced its formal orientation and recruitment cycle. Positions are open across critical functional groups, including Corporate Sponsorship, Media Operations, Web Development Stack Management, Public Relations, and Logistics. The orientation sessions, scheduled to begin tomorrow, will outline the strategic planning phases and key performance indicators. Candidates will undergo a multi-layered screening framework encompassing case-based problem solving and group stress tests."
+  },
+  {
+    "id": "32",
+    "title": "Kshitij Tech Fest Robotics Challenge",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Register your team for Robowars.",
+    "fullContent": "The steering committee for Kshitij, the international techno-management fest, has opened registration for its flagship events: Robowars (15kg and 30kg combat categories) and Autonomous Drone Racing. The cumulative prize pool is valued at over ₹5 Lakhs, with external corporate validation and international team tracking. Participating teams (maximum of 4 members) must submit their comprehensive CAD designs, electrical system diagrams, and RF spectrum tracking data for pre-qualification screening before building physical prototypes inside the innovation labs."
+  },
+  {
+    "id": "33",
+    "title": "Inter-Hall General Championship (GC)",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Cricket and Football fixture releases.",
+    "fullContent": "The Technology Gymkhana has officially released the complete group stage and knockout fixtures for the prestigious Inter-Hall General Championship (GC). The high-intensity cricket and football matches are scheduled to kick off under the main stadium floodlights this Friday evening. All games will be monitored by certified match officials from the regional sports authority, adhering strictly to AIU guidelines. Hall managers must ensure their final 16-player match-day squads, verified by the sports officer, are submitted two hours prior to kickoff."
+  },
+  {
+    "id": "34",
+    "title": "Music Society Vocal Auditions",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Auditions for eastern and western bands.",
+    "fullContent": "The Campus Music Society is conducting its annual open jam auditions to select principal vocalists, instrumentalists, and percussionists for the institutional Eastern Fusion Classical Ensemble and the Western Progressive Rock Band. Candidates will be evaluated inside the acoustics-controlled music room based on precise pitch fidelity, rhythmic syncopation control, microtonal accuracy, and improvisational capability across complex scales. Bringing personal instruments is highly recommended; basic rhythm reinforcement and standard amplification infrastructure will be provided."
+  },
+  {
+    "id": "35",
+    "title": "Finance Club Quant Trainee Selection",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Selection task for algorithmic trading.",
+    "fullContent": "The Finance Club is launching its specialized candidate selection pipeline for the Quantitative Trading and Asset Management research cell. The entrance assessment track will focus heavily on advanced probability distributions, game theory matrices, Markov chains, and basic mathematical derivatives formulation. Shortlisted candidates from the written testing phase will advance to a 48-hour algorithmic hackathon, where they will be required to backtest systematic trading strategies using historical market data and present their models to senior quantitative research analysts."
+  },
+  {
+    "id": "36",
+    "title": "Coding Club Hackathon Announcement",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "36-hour overnight software hackathon.",
+    "fullContent": "Formulate your teams for the Coding Club's annual 36-hour overnight software hackathon. This year's focus targets developing highly scalable, distributed open-source applications optimized for enhancing student productivity and campus ERP automation workflows. Projects will be evaluated on architectural design patterns, API performance optimization, security postures, and UI/UX scannability. The institute will provide high-bandwidth connectivity channels, cloud execution credits, and continuous food and beverage support throughout the sprint window."
+  },
+  {
+    "id": "37",
+    "title": "Dramatics Club Street Play (Nukkad)",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Watch the open-air performance.",
+    "fullContent": "The Dramatics Wing is staging a live, open-air street theater performance (Nukkad Natak) outside the Main Canteen Arena at 5:00 PM. The thematic arc explores systemic academic stress, emotional coping mechanisms, and de-stigmatizing campus mental health intervention channels, developed in collaboration with the Institutional Counseling Centre. The performance integrates traditional percussion orchestration, choral speaking, and interactive crowd engagement strategies designed to foster campus-wide dialogue on community well-being."
+  },
+  {
+    "id": "38",
+    "title": "E-Cell Startup Bootcamp Registration",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Get mentorship and funding for your ideas.",
+    "fullContent": "The Entrepreneurship Cell (E-Cell) presents its intensive 3-week Startup Bootcamp, structurally tailored for early-stage student founders. The curriculum offers direct guidance from venture capitalists and legal experts on parsing value propositions, executing total addressable market (TAM) analysis, calculating unit economics, and drafting pitch decks. Top-performing cohorts at the concluding Demo Day will secure incubation desk spaces within the institute research park and equity-free incubation seed grants starting at ₹1 Lakh."
+  },
+  {
+    "id": "39",
+    "title": "Debating Society Open Selections",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "British Parliamentary debate trials.",
+    "fullContent": "The Debating Society invites registrations for its introductory selection trials, conforming to the internationally recognized British Parliamentary (BP) debating framework. Participants will compete in teams of two and receive complex motions covering international relations, AI ethics, and macroeconomic fiscal policies with a 15-minute preparation window. Adjudication metrics will look closely at argument structure, refutation depth, logical consistency, and rhetorical delivery. Top performers will represent the institute at national and international parliamentary tournaments."
+  },
+  {
+    "id": "40",
+    "title": "Photography Club Photo-Walk Event",
+    "category": "Gymkhana and Clubs",
+    "shortContent": "Learn night-sky exposure techniques.",
+    "fullContent": "The Photography Club is hosting a late-evening educational photo-walk targeting low-light architectural documentation and astrophotography fundamentals. The session will cover manual sensor calibration, long-exposure light calculations, hyperfocal distance mapping, and noise-reduction processing pipelines in RAW. Participants should meet at the central library plaza equipped with a DSLR/Mirrorless camera system and a stable tripod. Select photographs will be curated and featured in the upcoming annual campus gallery exhibition."
+  }
+]
